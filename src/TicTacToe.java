@@ -5,3 +5,4 @@ public class TicTacToe {
         System.out.println("Welcome to TicTacToe!");
     }
 }
+// Instructions: Player X starts first
